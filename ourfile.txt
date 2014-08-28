@@ -1,6 +1,6 @@
 new
 I have made some changes. Another change.
-This line was added in the master branch.
+This line was added in both the master and iss54 branches.
 Hello there!
 A change.
 Another.
