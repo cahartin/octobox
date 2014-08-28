@@ -1,6 +1,6 @@
 new
 I have made some changes. Another change.
-
+This line was added in the master branch.
 Hello there!
 A change.
 Another.
